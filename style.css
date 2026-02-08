@@ -1,0 +1,38 @@
+
+:root{
+    --purplecolor: #f6f2ff;
+}
+
+/* navbar start */
+.purple{
+    background-color: var(--purplecolor) !important;
+}
+
+.btnborder{
+    border-color: #4776E6 !important;
+}
+
+/* hero section start*/
+.freestyle{
+    color: #af53de !important;
+}
+
+
+.gradient{  
+    background-color: #af53de !important;
+    background-image: linear-gradient( #f6f2ff, #f6f2ff , #efe3fb,  #bb93d3) !important;
+}
+
+.btngradient{
+    background-color: #5271e7 !important;
+    background-image: linear-gradient(#5271e7, #8458e8, #6866e7);
+    color: white !important;
+}
+.para{
+    color: black !important;
+   font-style: bold !important;
+    
+}
+
+
+/* hero section end*/
